@@ -10,7 +10,7 @@ This example is based on [Forms with Next.js and Server Actions](https://github.
 
 ## Run locally
 
-First, create `.env.local` in the root and set your Vercel Postgres secrets to it:
+First, create `.env.local` in the root and set your [Vercel Postgres](https://vercel.com/storage/postgres) secrets to it:
 
 ```
 POSTGRES_URL="************"
